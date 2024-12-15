@@ -1,0 +1,6 @@
+This is the File Handling
+In the file handling we are getting to learn how to handle text file
+so the basic syntax of the file handling is variable_name = open('file_name','mode')
+Using mode we are allowed to handle the text.file in python
+Basic Mode are used in the file are 'w' , 'r' , 'a'
+u stand for write , r stand for read , a stand for append
